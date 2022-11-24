@@ -1,6 +1,10 @@
 body{
   background:gray;
 }
+table{
+  background:pink;
+}
+  
 
 td {
   border: 1px solid;
