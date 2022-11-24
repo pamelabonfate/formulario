@@ -2,11 +2,11 @@ body{
   background:gray;
 }
 table{
-  background:pink;
+  background: pink;
 }
   
 
-td {
+table tbody tr td {
   border: 1px solid;
-  border-color:black;
+  border-color: black;
 }
